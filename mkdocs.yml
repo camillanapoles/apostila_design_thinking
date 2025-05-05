@@ -1,0 +1,88 @@
+site_name: Apostila Design Thinking
+site_url: https://camillanapoles.github.io/apostila_design_thinking
+theme:
+  name: material
+  language: pt-BR
+nav:
+  - Introdução: introducao.md
+  - Sumário: sumario.md
+  - "MÓDULO 1: FUNDAMENTOS E ANÁLISE DE USUÁRIOS":
+    - "1.1 Introdução ao Design Thinking":
+      - "1.1.1 Conceitos Básicos": modulo1/1.1_introducao/1.1.1_conceitos_basicos_parte1.md
+      - "1.1.2 Etapas do Design Thinking": modulo1/1.1_introducao/1.1.2_etapas_design_thinking_parte1.md
+      - "1.1.3 Cases Rápidos": modulo1/1.1_introducao/1.1.3_cases_rapidos_parte1.md
+    - "1.2 Fundamentos de Pesquisa":
+      - "1.2.1 Tipos de Usuários": modulo1/1.2_fundamentos_pesquisa/1.2.1_tipos_usuarios_parte1.md
+      - "1.2.2 Métodos de Pesquisa": modulo1/1.2_fundamentos_pesquisa/1.2.2_metodos_pesquisa_parte1.md
+    - "1.3 Workshop Personas":
+      - "1.3.1 Criação de Personas": modulo1/1.3_workshop_personas/1.3.1_criacao_personas_parte1.md
+      - "1.3.2 Mapa de Empatia": modulo1/1.3_workshop_personas/1.3.2_mapa_empatia_parte1.md
+    - "1.4 Mapeamento de Jornadas":
+      - "1.4.1 Customer Journey Map": modulo1/1.4_mapeamento_jornadas/1.4.1_customer_journey_map_parte1.md
+      - "1.4.2 Pontos de Dor e Oportunidades": modulo1/1.4_mapeamento_jornadas/1.4.2_pontos_dor_oportunidades_parte1.md
+  - "MÓDULO 2: BUSINESS MODEL CANVAS E PROPOSTA DE VALOR":
+    - "2.1 Business Model Canvas":
+      - "2.1.1 Blocos Essenciais": modulo2/2.1_canvas_framework/2.1.1_business_model_canvas_parte1.md
+      - "2.1.2 Interrelações": modulo2/2.1_canvas_framework/2.1.1_business_model_canvas_parte2.md
+    - "2.2 Value Proposition Canvas":
+      - "2.2.1 Jobs-to-be-done": modulo2/2.1_canvas_framework/2.1.2_value_proposition_canvas_parte1.md
+      - "2.2.2 Gains & Pains": modulo2/2.1_canvas_framework/2.1.2_value_proposition_canvas_parte2.md
+      - "2.2.3 Fit Análise": modulo2/2.1_canvas_framework/2.1.2_value_proposition_canvas_parte3.md
+    - "2.3 Workshop Prático BMC":
+      - "2.3.1 Preenchimento Guiado": modulo2/2.2_workshop_pratico/2.2.1_construcao_bmc_parte1.md
+      - "2.3.2 Validação de Hipóteses": modulo2/2.2_workshop_pratico/2.2.2_validacao_hipoteses_parte1.md
+    - "2.4 Value Proposition Design":
+      - "2.4.1 Conexão com Personas": modulo2/2.2_workshop_pratico/2.2.2_validacao_hipoteses_parte3.md
+      - "2.4.2 Diferenciação Competitiva": modulo2/2.2_workshop_pratico/2.2.2_validacao_hipoteses_parte4.md
+  - "MÓDULO 3: LEAN INCEPTION CORE":
+    - "3.1 Visão do Produto":
+      - "3.1.1 Template \"É - Não é\"": modulo3/3.1_lean_inception_overview/3.1.1_introducao_lean_inception_parte1.md
+      - "3.1.2 Faz - Não faz": modulo3/3.1_lean_inception_overview/3.1.1_introducao_lean_inception_parte2.md
+      - "3.1.3 Alinhamento com Canvas": modulo3/3.1_lean_inception_overview/3.1.2_visao_produto_objetivos_parte1.md
+    - "3.2 Objetivos e Métricas":
+      - "3.2.1 OKRs": modulo3/3.1_lean_inception_overview/3.1.2_visao_produto_objetivos_parte2.md
+      - "3.2.2 Métricas SMART": modulo3/3.1_lean_inception_overview/3.1.2_visao_produto_objetivos_parte3.md
+    - "3.3 Brainstorming Estruturado":
+      - "3.3.1 Features Core": modulo3/3.1_lean_inception_overview/3.1.5_funcionalidades_priorizacao_parte1.md
+      - "3.3.2 Priorização": modulo3/3.1_lean_inception_overview/3.1.5_funcionalidades_priorizacao_parte2.md
+    - "3.4 Sequenciador":
+      - "3.4.1 Waves": modulo3/3.1_lean_inception_overview/3.1.5_funcionalidades_priorizacao_parte3.md
+      - "3.4.2 MVP Definition": modulo3/3.1_lean_inception_overview/3.1.5_funcionalidades_priorizacao_parte4.md
+  - "MÓDULO 4: MVP E PROJETO FINAL":
+    - "4.1 Validação MVP":
+      - "4.1.1 Hipóteses Críticas": modulo4/4.1_mvp_conceitos/4.1.1_conceito_importancia_mvp_parte1.md
+      - "4.1.2 Experimentos": modulo4/4.1_mvp_conceitos/4.1.2_tipos_abordagens_mvp_parte1.md
+    - "4.2 Roadmap Estratégico":
+      - "4.2.1 Timeline": modulo4/4.2_projeto_final/4.2.1_projeto_final_aplicacao_integrada_parte1.md
+      - "4.2.2 Marcos Principais": modulo4/4.2_projeto_final/4.2.1_projeto_final_aplicacao_integrada_parte2.md
+    - "4.3 Elevator Pitch":
+      - "4.3.1 Estruturação": modulo4/4.2_projeto_final/4.2.1_projeto_final_aplicacao_integrada_parte3.md
+      - "4.3.2 Storytelling": modulo4/4.2_projeto_final/4.2.1_projeto_final_aplicacao_integrada_parte4.md
+    - "4.4 Apresentação Final":
+      - "4.4.1 Demo Day": modulo4/4.2_projeto_final/4.2.1_projeto_final_aplicacao_integrada_parte1.md
+      - "4.4.2 Feedback Coletivo": modulo4/4.2_projeto_final/4.2.1_projeto_final_aplicacao_integrada_parte2.md
+  - Templates:
+    - Módulo 1:
+      - Persona: templates/modulo1/template_persona.md
+      - Mapa de Empatia: templates/modulo1/template_mapa_empatia.md
+      - Roteiro de Pesquisa: templates/modulo1/template_roteiro_pesquisa.md
+      - Mapa de Jornada: templates/modulo1/template_mapa_jornada.md
+    - Módulo 2:
+      - BMC: templates/modulo2/template_business_model_canvas.md
+      - VPC: templates/modulo2/template_value_proposition_canvas.md
+      - Validation Board: templates/modulo2/template_validation_board.md
+    - Módulo 3:
+      - Lean Inception Canvas: templates/modulo3/template_lean_inception_canvas.md
+      - OKRs: templates/modulo3/template_okrs.md
+      - Métricas SMART: templates/modulo3/template_metricas_smart.md
+    - Módulo 4:
+      - MVP Canvas: templates/modulo4/template_mvp_canvas.md
+      - Elevator Pitch: templates/modulo4/template_elevator_pitch.md
+  - Guia do Instrutor:
+    - Avaliação Módulo 1: guia_instrutor/modulo1/avaliacao_modulo1.md
+    - Avaliação Módulo 2: guia_instrutor/modulo2/avaliacao_modulo2.md
+    - Avaliação Módulo 3: guia_instrutor/modulo3/avaliacao_modulo3.md
+    - Avaliação Módulo 4: guia_instrutor/modulo4/avaliacao_modulo4.md
+  - Conclusão: conclusao.md
+  - Referências: referencias.md
+
