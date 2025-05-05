@@ -1,8 +1,15 @@
 site_name: Apostila Design Thinking
 site_url: https://camillanapoles.github.io/apostila_design_thinking
+docs_dir: docs
 theme:
   name: material
   language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+
 nav:
   - Introdução: introducao.md
   - Sumário: sumario.md
@@ -85,4 +92,15 @@ nav:
     - Avaliação Módulo 4: guia_instrutor/modulo4/avaliacao_modulo4.md
   - Conclusão: conclusao.md
   - Referências: referencias.md
+  
+plugins:
+  - search:
+      lang: pt
 
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
