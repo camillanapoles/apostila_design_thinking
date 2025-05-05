@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="400" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Comparativo: Métodos Qualitativos vs. Quantitativos</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="700" height="520" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Cabeçalho -->
+  <rect x="50" y="50" width="700" height="60" rx="10" ry="10" fill="#34495e" stroke="#333" stroke-width="2" />
+  <text x="400" y="85" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">MÉTODOS DE PESQUISA</text>
+  
+  <!-- Divisão de colunas -->
+  <line x1="400" y1="110" x2="400" y2="570" stroke="#333" stroke-width="2" />
+  
+  <!-- Cabeçalhos de coluna -->
+  <rect x="50" y="110" width="350" height="50" fill="#3498db" stroke="#333" stroke-width="1" />
+  <rect x="400" y="110" width="350" height="50" fill="#e74c3c" stroke="#333" stroke-width="1" />
+  
+  <text x="225" y="140" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">MÉTODOS QUALITATIVOS</text>
+  <text x="575" y="140" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">MÉTODOS QUANTITATIVOS</text>
+  
+  <!-- Seção: Métodos -->
+  <rect x="50" y="160" width="350" height="100" fill="#f2f2f2" stroke="#333" stroke-width="1" />
+  <rect x="400" y="160" width="350" height="100" fill="#f2f2f2" stroke="#333" stroke-width="1" />
+  
+  <text x="225" y="180" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Entrevistas em profundidade</text>
+  <text x="225" y="205" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Observação contextual</text>
+  <text x="225" y="230" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Grupos focais</text>
+  <text x="225" y="255" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Diários de uso</text>
+  
+  <text x="575" y="180" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Pesquisas e questionários</text>
+  <text x="575" y="205" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Análise de dados de uso</text>
+  <text x="575" y="230" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Testes A/B</text>
+  <text x="575" y="255" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Análise estatística</text>
+  
+  <!-- Seção: Quando usar -->
+  <rect x="50" y="260" width="350" height="120" fill="#ebf5fb" stroke="#333" stroke-width="1" />
+  <rect x="400" y="260" width="350" height="120" fill="#fbe5e1" stroke="#333" stroke-width="1" />
+  
+  <text x="225" y="280" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">QUANDO USAR:</text>
+  <text x="225" y="305" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Para entender "por quê"</text>
+  <text x="225" y="330" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Para explorar motivações</text>
+  <text x="225" y="355" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Para descobrir necessidades não articuladas</text>
+  <text x="225" y="380" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Em fases iniciais</text>
+  
+  <text x="575" y="280" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">QUANDO USAR:</text>
+  <text x="575" y="305" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Para entender "o quê" e "quanto"</text>
+  <text x="575" y="330" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Para validar hipóteses</text>
+  <text x="575" y="355" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Para identificar tendências</text>
+  <text x="575" y="380" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Em fases de validação</text>
+  
+  <!-- Seção: Amostra -->
+  <rect x="50" y="380" width="350" height="80" fill="#f2f2f2" stroke="#333" stroke-width="1" />
+  <rect x="400" y="380" width="350" height="80" fill="#f2f2f2" stroke="#333" stroke-width="1" />
+  
+  <text x="225" y="400" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">AMOSTRA:</text>
+  <text x="225" y="425" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Pequena (5-20 participantes)</text>
+  <text x="225" y="450" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Seleção criteriosa</text>
+  
+  <text x="575" y="400" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">AMOSTRA:</text>
+  <text x="575" y="425" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Grande (100+ participantes)</text>
+  <text x="575" y="450" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Representativa estatisticamente</text>
+  
+  <!-- Seção: Resultados -->
+  <rect x="50" y="460" width="350" height="110" fill="#ebf5fb" stroke="#333" stroke-width="1" />
+  <rect x="400" y="460" width="350" height="110" fill="#fbe5e1" stroke="#333" stroke-width="1" />
+  
+  <text x="225" y="480" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">RESULTADOS:</text>
+  <text x="225" y="505" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Insights profundos</text>
+  <text x="225" y="530" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Narrativas ricas</text>
+  <text x="225" y="555" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Descobertas inesperadas</text>
+  
+  <text x="575" y="480" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">RESULTADOS:</text>
+  <text x="575" y="505" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Dados estatísticos</text>
+  <text x="575" y="530" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Padrões e tendências</text>
+  <text x="575" y="555" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">• Validação ou refutação</text>
+</svg>

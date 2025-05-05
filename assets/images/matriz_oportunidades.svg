@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="350" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Matriz de Oportunidades</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="600" height="520" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Linhas de divisão -->
+  <line x1="350" y1="50" x2="350" y2="570" stroke="#333" stroke-width="2" />
+  <line x1="50" y1="310" x2="650" y2="310" stroke="#333" stroke-width="2" />
+  
+  <!-- Rótulos dos eixos -->
+  <text x="350" y="590" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">ESFORÇO</text>
+  <text x="200" y="590" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">BAIXO</text>
+  <text x="500" y="590" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">ALTO</text>
+  
+  <text x="30" y="310" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" transform="rotate(-90, 30, 310)" font-weight="bold">IMPACTO</text>
+  <text x="30" y="200" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" transform="rotate(-90, 30, 200)">ALTO</text>
+  <text x="30" y="420" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" transform="rotate(-90, 30, 420)">BAIXO</text>
+  
+  <!-- Quadrantes -->
+  <!-- Alto impacto, baixo esforço -->
+  <rect x="70" y="70" width="260" height="220" rx="5" ry="5" fill="#e8f8f5" stroke="#333" stroke-width="1" />
+  <text x="200" y="120" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">VITÓRIAS RÁPIDAS</text>
+  <text x="200" y="150" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">(Implementar imediatamente)</text>
+  
+  <!-- Alto impacto, alto esforço -->
+  <rect x="370" y="70" width="260" height="220" rx="5" ry="5" fill="#ebf5fb" stroke="#333" stroke-width="1" />
+  <text x="500" y="120" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">PROJETOS ESTRATÉGICOS</text>
+  <text x="500" y="150" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">(Planejar cuidadosamente)</text>
+  
+  <!-- Baixo impacto, baixo esforço -->
+  <rect x="70" y="330" width="260" height="220" rx="5" ry="5" fill="#fef9e7" stroke="#333" stroke-width="1" />
+  <text x="200" y="380" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">MELHORIAS INCREMENTAIS</text>
+  <text x="200" y="410" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">(Implementar quando conveniente)</text>
+  
+  <!-- Baixo impacto, alto esforço -->
+  <rect x="370" y="330" width="260" height="220" rx="5" ry="5" fill="#fbe5e1" stroke="#333" stroke-width="1" />
+  <text x="500" y="380" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">EVITAR OU ADIAR</text>
+</svg>
