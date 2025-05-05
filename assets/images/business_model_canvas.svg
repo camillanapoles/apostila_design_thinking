@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="400" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Business Model Canvas</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="700" height="520" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Parceiros-chave -->
+  <rect x="50" y="50" width="140" height="200" fill="#f5f5f5" stroke="#333" stroke-width="1" />
+  <text x="120" y="75" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">PARCEIROS-CHAVE</text>
+  
+  <!-- Atividades-chave -->
+  <rect x="190" y="50" width="140" height="200" fill="#ebf5fb" stroke="#333" stroke-width="1" />
+  <text x="260" y="75" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">ATIVIDADES-CHAVE</text>
+  
+  <!-- Proposta de valor -->
+  <rect x="330" y="50" width="140" height="320" fill="#e8f8f5" stroke="#333" stroke-width="1" />
+  <text x="400" y="75" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">PROPOSTA DE VALOR</text>
+  
+  <!-- Relacionamento com clientes -->
+  <rect x="470" y="50" width="140" height="200" fill="#fef9e7" stroke="#333" stroke-width="1" />
+  <text x="540" y="75" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">RELACIONAMENTO</text>
+  <text x="540" y="95" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">COM CLIENTES</text>
+  
+  <!-- Segmentos de clientes -->
+  <rect x="610" y="50" width="140" height="320" fill="#fbe5e1" stroke="#333" stroke-width="1" />
+  <text x="680" y="75" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">SEGMENTOS DE</text>
+  <text x="680" y="95" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">CLIENTES</text>
+  
+  <!-- Recursos-chave -->
+  <rect x="190" y="250" width="140" height="170" fill="#f5eef8" stroke="#333" stroke-width="1" />
+  <text x="260" y="275" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">RECURSOS-CHAVE</text>
+  
+  <!-- Canais -->
+  <rect x="470" y="250" width="140" height="170" fill="#eaeded" stroke="#333" stroke-width="1" />
+  <text x="540" y="275" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">CANAIS</text>
+  
+  <!-- Estrutura de custos -->
+  <rect x="50" y="420" width="350" height="150" fill="#f2f2f2" stroke="#333" stroke-width="1" />
+  <text x="225" y="445" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">ESTRUTURA DE CUSTOS</text>
+  
+  <!-- Fontes de receita -->
+  <rect x="400" y="420" width="350" height="150" fill="#eafaf1" stroke="#333" stroke-width="1" />
+  <text x="575" y="445" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">FONTES DE RECEITA</text>
+</svg>

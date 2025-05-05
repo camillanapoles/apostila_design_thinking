@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título da tabela -->
+  <text x="400" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Ferramentas por Etapa do Design Thinking</text>
+  
+  <!-- Cabeçalho da tabela -->
+  <rect x="50" y="50" width="150" height="40" fill="#34495e" stroke="#000" stroke-width="1" />
+  <rect x="200" y="50" width="150" height="40" fill="#34495e" stroke="#000" stroke-width="1" />
+  <rect x="350" y="50" width="200" height="40" fill="#34495e" stroke="#000" stroke-width="1" />
+  <rect x="550" y="50" width="200" height="40" fill="#34495e" stroke="#000" stroke-width="1" />
+  
+  <text x="125" y="75" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Etapa</text>
+  <text x="275" y="75" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Objetivo</text>
+  <text x="450" y="75" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Ferramentas Principais</text>
+  <text x="650" y="75" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Entregáveis</text>
+  
+  <!-- Linha 1: Empatia -->
+  <rect x="50" y="90" width="150" height="80" fill="#3498db" stroke="#000" stroke-width="1" />
+  <rect x="200" y="90" width="150" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="350" y="90" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="550" y="90" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  
+  <text x="125" y="130" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">EMPATIA</text>
+  <text x="275" y="115" font-family="Arial" font-size="12" fill="black" text-anchor="middle">Compreender</text>
+  <text x="275" y="130" font-family="Arial" font-size="12" fill="black" text-anchor="middle">profundamente</text>
+  <text x="275" y="145" font-family="Arial" font-size="12" fill="black" text-anchor="middle">os usuários</text>
+  
+  <text x="450" y="110" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Entrevistas</text>
+  <text x="450" y="130" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Observação</text>
+  <text x="450" y="150" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Pesquisa etnográfica</text>
+  
+  <text x="650" y="110" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Notas de campo</text>
+  <text x="650" y="130" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Transcrições</text>
+  <text x="650" y="150" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Insights iniciais</text>
+  
+  <!-- Linha 2: Definição -->
+  <rect x="50" y="170" width="150" height="80" fill="#2ecc71" stroke="#000" stroke-width="1" />
+  <rect x="200" y="170" width="150" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="350" y="170" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="550" y="170" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  
+  <text x="125" y="210" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">DEFINIÇÃO</text>
+  <text x="275" y="195" font-family="Arial" font-size="12" fill="black" text-anchor="middle">Sintetizar informações</text>
+  <text x="275" y="210" font-family="Arial" font-size="12" fill="black" text-anchor="middle">e identificar o</text>
+  <text x="275" y="225" font-family="Arial" font-size="12" fill="black" text-anchor="middle">problema central</text>
+  
+  <text x="450" y="190" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Mapas de empatia</text>
+  <text x="450" y="210" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Personas</text>
+  <text x="450" y="230" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Jornadas do usuário</text>
+  
+  <text x="650" y="190" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Problema definido</text>
+  <text x="650" y="210" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Personas</text>
+  <text x="650" y="230" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Point of View (POV)</text>
+  
+  <!-- Linha 3: Ideação -->
+  <rect x="50" y="250" width="150" height="80" fill="#e74c3c" stroke="#000" stroke-width="1" />
+  <rect x="200" y="250" width="150" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="350" y="250" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="550" y="250" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  
+  <text x="125" y="290" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">IDEAÇÃO</text>
+  <text x="275" y="275" font-family="Arial" font-size="12" fill="black" text-anchor="middle">Gerar múltiplas</text>
+  <text x="275" y="290" font-family="Arial" font-size="12" fill="black" text-anchor="middle">soluções</text>
+  <text x="275" y="305" font-family="Arial" font-size="12" fill="black" text-anchor="middle">potenciais</text>
+  
+  <text x="450" y="270" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Brainstorming</text>
+  <text x="450" y="290" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Brainwriting</text>
+  <text x="450" y="310" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• SCAMPER</text>
+  
+  <text x="650" y="270" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Conjunto de ideias</text>
+  <text x="650" y="290" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Conceitos</text>
+  <text x="650" y="310" font-family="Arial" font-size="12" fill="black" text-anchor="middle">selecionados</text>
+  
+  <!-- Linha 4: Prototipagem -->
+  <rect x="50" y="330" width="150" height="80" fill="#9b59b6" stroke="#000" stroke-width="1" />
+  <rect x="200" y="330" width="150" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="350" y="330" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="550" y="330" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  
+  <text x="125" y="370" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">PROTOTIPAGEM</text>
+  <text x="275" y="355" font-family="Arial" font-size="12" fill="black" text-anchor="middle">Criar representações</text>
+  <text x="275" y="370" font-family="Arial" font-size="12" fill="black" text-anchor="middle">tangíveis das</text>
+  <text x="275" y="385" font-family="Arial" font-size="12" fill="black" text-anchor="middle">soluções</text>
+  
+  <text x="450" y="350" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Protótipos de papel</text>
+  <text x="450" y="370" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Storyboards</text>
+  <text x="450" y="390" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Mockups</text>
+  
+  <text x="650" y="350" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Protótipos testáveis</text>
+  <text x="650" y="370" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Representações</text>
+  <text x="650" y="390" font-family="Arial" font-size="12" fill="black" text-anchor="middle">visuais</text>
+  
+  <!-- Linha 5: Teste -->
+  <rect x="50" y="410" width="150" height="80" fill="#f39c12" stroke="#000" stroke-width="1" />
+  <rect x="200" y="410" width="150" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="350" y="410" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  <rect x="550" y="410" width="200" height="80" fill="#f2f2f2" stroke="#000" stroke-width="1" />
+  
+  <text x="125" y="450" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">TESTE</text>
+  <text x="275" y="435" font-family="Arial" font-size="12" fill="black" text-anchor="middle">Obter feedback</text>
+  <text x="275" y="450" font-family="Arial" font-size="12" fill="black" text-anchor="middle">dos</text>
+  <text x="275" y="465" font-family="Arial" font-size="12" fill="black" text-anchor="middle">usuários</text>
+  
+  <text x="450" y="430" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Testes de usabilidade</text>
+  <text x="450" y="450" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Entrevistas pós-teste</text>
+  <text x="450" y="470" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• A/B testing</text>
+  
+  <text x="650" y="430" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Feedback documentado</text>
+  <text x="650" y="450" font-family="Arial" font-size="12" fill="black" text-anchor="middle">• Insights para</text>
+  <text x="650" y="470" font-family="Arial" font-size="12" fill="black" text-anchor="middle">iteração</text>
+</svg>

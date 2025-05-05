@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="350" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Fluxo do Projeto Prático</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="600" height="630" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Etapa 1 -->
+  <rect x="100" y="80" width="500" height="100" rx="8" ry="8" fill="#3498db" stroke="#333" stroke-width="1" />
+  <text x="350" y="110" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">ETAPA 1: DEFINIÇÃO DO ESCOPO</text>
+  <text x="350" y="135" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Selecionar startup deeptech</text>
+  <text x="350" y="155" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Definir produto/serviço</text>
+  <text x="350" y="175" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Identificar problema principal e objetivos da pesquisa</text>
+  
+  <!-- Seta para baixo -->
+  <line x1="350" y1="180" x2="350" y2="200" stroke="#333" stroke-width="2" />
+  <polygon points="350,200 345,190 355,190" fill="#333" />
+  
+  <!-- Etapa 2 -->
+  <rect x="100" y="200" width="500" height="100" rx="8" ry="8" fill="#2ecc71" stroke="#333" stroke-width="1" />
+  <text x="350" y="230" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">ETAPA 2: PESQUISA DE USUÁRIOS</text>
+  <text x="350" y="255" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Identificar tipos de usuários e desenvolver roteiro</text>
+  <text x="350" y="275" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Conduzir entrevistas e coletar dados secundários</text>
+  <text x="350" y="295" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Organizar achados</text>
+  
+  <!-- Seta para baixo -->
+  <line x1="350" y1="300" x2="350" y2="320" stroke="#333" stroke-width="2" />
+  <polygon points="350,320 345,310 355,310" fill="#333" />
+  
+  <!-- Etapa 3 -->
+  <rect x="100" y="320" width="500" height="100" rx="8" ry="8" fill="#e74c3c" stroke="#333" stroke-width="1" />
+  <text x="350" y="350" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">ETAPA 3: CRIAÇÃO DE PERSONAS</text>
+  <text x="350" y="375" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Analisar dados e identificar padrões</text>
+  <text x="350" y="395" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Desenvolver personas primária e secundária</text>
+  <text x="350" y="415" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Criar mapa de empatia</text>
+  
+  <!-- Seta para baixo -->
+  <line x1="350" y1="420" x2="350" y2="440" stroke="#333" stroke-width="2" />
+  <polygon points="350,440 345,430 355,430" fill="#333" />
+  
+  <!-- Etapa 4 -->
+  <rect x="100" y="440" width="500" height="100" rx="8" ry="8" fill="#9b59b6" stroke="#333" stroke-width="1" />
+  <text x="350" y="470" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">ETAPA 4: MAPEAMENTO DE JORNADAS</text>
+  <text x="350" y="495" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Definir escopo da jornada e identificar fases principais</text>
+  <text x="350" y="515" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Documentar ações, pensamentos e sentimentos</text>
+  <text x="350" y="535" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Identificar pontos de dor e formular oportunidades</text>
+  
+  <!-- Seta para baixo -->
+  <line x1="350" y1="540" x2="350" y2="560" stroke="#333" stroke-width="2" />
+  <polygon points="350,560 345,550 355,550" fill="#333" />
+  
+  <!-- Etapa 5 -->
+  <rect x="100" y="560" width="500" height="100" rx="8" ry="8" fill="#f39c12" stroke="#333" stroke-width="1" />
+  <text x="350" y="590" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">ETAPA 5: DOCUMENTAÇÃO E APRESENTAÇÃO</text>
+  <text x="350" y="615" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Organizar materiais e criar apresentação</text>
+  <text x="350" y="635" font-family="Arial" font-size="14" fill="white" text-anchor="middle">• Preparar narrativa e submeter entregáveis</text>
+</svg>

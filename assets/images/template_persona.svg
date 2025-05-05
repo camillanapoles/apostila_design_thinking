@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="400" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Template de Persona</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="700" height="820" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Cabeçalho com informações básicas -->
+  <rect x="50" y="50" width="700" height="150" rx="10" ry="10" fill="#f5f5f5" stroke="#333" stroke-width="1" />
+  
+  <!-- Espaço para foto -->
+  <rect x="70" y="70" width="110" height="110" rx="5" ry="5" fill="white" stroke="#333" stroke-width="1" />
+  <text x="125" y="130" font-family="Arial" font-size="14" fill="#777" text-anchor="middle">FOTO</text>
+  
+  <!-- Informações básicas -->
+  <text x="200" y="90" font-family="Arial" font-size="14" fill="#333" text-anchor="start" font-weight="bold">NOME:</text>
+  <line x1="260" y1="90" x2="450" y2="90" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="470" y="90" font-family="Arial" font-size="14" fill="#333" text-anchor="start" font-weight="bold">IDADE:</text>
+  <line x1="530" y1="90" x2="700" y2="90" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="200" y="120" font-family="Arial" font-size="14" fill="#333" text-anchor="start" font-weight="bold">OCUPAÇÃO:</text>
+  <line x1="290" y1="120" x2="450" y2="120" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="470" y="120" font-family="Arial" font-size="14" fill="#333" text-anchor="start" font-weight="bold">LOCALIZAÇÃO:</text>
+  <line x1="580" y1="120" x2="700" y2="120" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="200" y="150" font-family="Arial" font-size="14" fill="#333" text-anchor="start" font-weight="bold">CITAÇÃO:</text>
+  <text x="270" y="150" font-family="Arial" font-size="14" fill="#333" text-anchor="start">"</text>
+  <line x1="280" y1="150" x2="690" y2="150" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  <text x="700" y="150" font-family="Arial" font-size="14" fill="#333" text-anchor="start">"</text>
+  
+  <!-- Seção: Contexto Profissional e Pessoal -->
+  <rect x="50" y="210" width="700" height="150" rx="5" ry="5" fill="#ebf5fb" stroke="#333" stroke-width="1" />
+  <text x="400" y="235" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">CONTEXTO PROFISSIONAL E PESSOAL</text>
+  
+  <text x="70" y="265" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Função e responsabilidades:</text>
+  <line x1="280" y1="265" x2="730" y2="265" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="295" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Habilidades e conhecimentos:</text>
+  <line x1="280" y1="295" x2="730" y2="295" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="325" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Ambiente de trabalho:</text>
+  <line x1="280" y1="325" x2="730" y2="325" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="355" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Desafios diários:</text>
+  <line x1="280" y1="355" x2="730" y2="355" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <!-- Seção: Comportamentos e Preferências -->
+  <rect x="50" y="370" width="700" height="150" rx="5" ry="5" fill="#e8f8f5" stroke="#333" stroke-width="1" />
+  <text x="400" y="395" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">COMPORTAMENTOS E PREFERÊNCIAS</text>
+  
+  <text x="70" y="425" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Processo de tomada de decisão:</text>
+  <line x1="300" y1="425" x2="730" y2="425" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="455" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Ferramentas e tecnologias utilizadas:</text>
+  <line x1="320" y1="455" x2="730" y2="455" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="485" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Fontes de informação confiáveis:</text>
+  <line x1="300" y1="485" x2="730" y2="485" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="515" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Hábitos relevantes:</text>
+  <line x1="300" y1="515" x2="730" y2="515" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <!-- Seção: Motivações e Frustrações (dividida em duas colunas) -->
+  <rect x="50" y="530" width="700" height="180" rx="5" ry="5" fill="#fef9e7" stroke="#333" stroke-width="1" />
+  <line x1="400" y1="530" x2="400" y2="710" stroke="#333" stroke-width="1" />
+  
+  <text x="225" y="555" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">MOTIVAÇÕES E OBJETIVOS</text>
+  <text x="575" y="555" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">FRUSTRAÇÕES E PONTOS DE DOR</text>
+  
+  <text x="70" y="585" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Metas de curto prazo:</text>
+  <line x1="220" y1="585" x2="380" y2="585" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="615" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Metas de longo prazo:</text>
+  <line x1="220" y1="615" x2="380" y2="615" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="645" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Medidas de sucesso:</text>
+  <line x1="220" y1="645" x2="380" y2="645" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="675" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Valores fundamentais:</text>
+  <line x1="220" y1="675" x2="380" y2="675" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="420" y="585" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Obstáculos recorrentes:</text>
+  <line x1="570" y1="585" x2="730" y2="585" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="420" y="615" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Preocupações:</text>
+  <line x1="570" y1="615" x2="730" y2="615" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="420" y="645" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Limitações:</text>
+  <line x1="570" y1="645" x2="730" y2="645" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="420" y="675" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Experiências negativas:</text>
+  <line x1="570" y1="675" x2="730" y2="675" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <!-- Seção: Cenários de Uso -->
+  <rect x="50" y="720" width="700" height="150" rx="5" ry="5" fill="#fbe5e1" stroke="#333" stroke-width="1" />
+  <text x="400" y="745" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">CENÁRIOS DE USO</text>
+  
+  <text x="70" y="775" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Situação típica 1:</text>
+  <line x1="200" y1="775" x2="730" y2="775" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="805" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Situação típica 2:</text>
+  <line x1="200" y1="805" x2="730" y2="805" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="835" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Contexto de uso:</text>
+  <line x1="200" y1="835" x2="730" y2="835" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+  
+  <text x="70" y="865" font-family="Arial" font-size="14" fill="#333" text-anchor="start">• Gatilhos para engajamento:</text>
+  <line x1="250" y1="865" x2="730" y2="865" stroke="#333" stroke-width="1" stroke-dasharray="2,2" />
+</svg>

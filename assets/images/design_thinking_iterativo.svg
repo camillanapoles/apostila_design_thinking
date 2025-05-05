@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="350" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Design Thinking: Natureza Iterativa</text>
+  
+  <!-- Retângulo de fundo -->
+  <rect x="50" y="60" width="600" height="400" rx="10" ry="10" fill="white" stroke="#34495e" stroke-width="2" />
+  
+  <!-- Etapas principais (fluxo horizontal) -->
+  <rect x="80" y="120" width="120" height="80" rx="8" ry="8" fill="#3498db" />
+  <rect x="230" y="120" width="120" height="80" rx="8" ry="8" fill="#2ecc71" />
+  <rect x="380" y="120" width="120" height="80" rx="8" ry="8" fill="#e74c3c" />
+  <rect x="530" y="120" width="120" height="80" rx="8" ry="8" fill="#9b59b6" />
+  
+  <!-- Textos das etapas principais -->
+  <text x="140" y="165" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">EMPATIA</text>
+  <text x="290" y="165" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">DEFINIÇÃO</text>
+  <text x="440" y="165" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">IDEAÇÃO</text>
+  <text x="590" y="165" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">PROTÓTIPO</text>
+  
+  <!-- Setas de conexão horizontal -->
+  <path d="M200,160 L230,160" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M350,160 L380,160" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M500,160 L530,160" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Etapa de teste (abaixo) -->
+  <rect x="200" y="300" width="300" height="80" rx="8" ry="8" fill="#f39c12" />
+  <text x="350" y="345" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">TESTE</text>
+  
+  <!-- Setas de feedback (de teste para etapas anteriores) -->
+  <path d="M140,200 L140,250 L350,250 L350,300" stroke="#555" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowhead)" />
+  <path d="M290,200 L290,270 L350,270 L350,300" stroke="#555" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowhead)" />
+  <path d="M440,200 L440,270 L350,270 L350,300" stroke="#555" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowhead)" />
+  <path d="M590,200 L590,250 L350,250 L350,300" stroke="#555" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowhead)" />
+  
+  <!-- Definição da ponta de seta -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+  
+  <!-- Texto explicativo -->
+  <text x="350" y="420" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">O feedback do teste pode levar a revisitar qualquer etapa anterior</text>
+</svg>

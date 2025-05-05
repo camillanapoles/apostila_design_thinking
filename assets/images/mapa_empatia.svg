@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="400" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Mapa de Empatia</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="700" height="520" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Divisões do mapa -->
+  <line x1="400" y1="50" x2="400" y2="450" stroke="#333" stroke-width="2" />
+  <line x1="50" y1="250" x2="750" y2="250" stroke="#333" stroke-width="2" />
+  <line x1="50" y1="450" x2="750" y2="450" stroke="#333" stroke-width="2" />
+  
+  <!-- Quadrantes -->
+  <!-- Quadrante superior esquerdo: O que pensa e acredita -->
+  <rect x="50" y="50" width="350" height="200" fill="#ebf5fb" stroke="#333" stroke-width="0" />
+  <text x="225" y="80" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">O QUE PENSA E ACREDITA</text>
+  
+  <!-- Quadrante superior direito: O que sente -->
+  <rect x="400" y="50" width="350" height="200" fill="#fef9e7" stroke="#333" stroke-width="0" />
+  <text x="575" y="80" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">O QUE SENTE</text>
+  
+  <!-- Quadrante inferior esquerdo: O que vê -->
+  <rect x="50" y="250" width="350" height="200" fill="#e8f8f5" stroke="#333" stroke-width="0" />
+  <text x="225" y="280" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">O QUE VÊ</text>
+  
+  <!-- Quadrante inferior direito: O que diz e faz -->
+  <rect x="400" y="250" width="350" height="200" fill="#fbe5e1" stroke="#333" stroke-width="0" />
+  <text x="575" y="280" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">O QUE DIZ E FAZ</text>
+  
+  <!-- Seção inferior: Dores e Ganhos -->
+  <rect x="50" y="450" width="700" height="120" fill="#f5eef8" stroke="#333" stroke-width="0" />
+  <line x1="400" y1="450" x2="400" y2="570" stroke="#333" stroke-width="2" />
+  
+  <text x="225" y="480" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">DORES</text>
+  <text x="575" y="480" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">GANHOS</text>
+  
+  <!-- Círculo central para a persona -->
+  <circle cx="400" cy="250" r="50" fill="white" stroke="#333" stroke-width="2" />
+  <text x="400" y="245" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">PERSONA</text>
+  <text x="400" y="265" font-family="Arial" font-size="12" fill="#333" text-anchor="middle">[Nome]</text>
+</svg>

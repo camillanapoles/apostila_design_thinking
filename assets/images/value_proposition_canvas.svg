@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="400" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Value Proposition Canvas</text>
+  
+  <!-- Retângulo principal -->
+  <rect x="50" y="50" width="700" height="520" rx="10" ry="10" fill="white" stroke="#333" stroke-width="2" />
+  
+  <!-- Círculo do Perfil do Cliente -->
+  <circle cx="550" cy="300" r="200" fill="#fbe5e1" stroke="#333" stroke-width="2" />
+  <text x="550" y="150" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">PERFIL DO CLIENTE</text>
+  
+  <!-- Divisões do Perfil do Cliente -->
+  <path d="M550,100 L550,500" stroke="#333" stroke-width="2" fill="none" />
+  <path d="M350,300 L750,300" stroke="#333" stroke-width="2" fill="none" />
+  
+  <!-- Textos do Perfil do Cliente -->
+  <text x="450" y="200" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">TAREFAS</text>
+  <text x="650" y="200" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">GANHOS</text>
+  <text x="550" y="400" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">DORES</text>
+  
+  <!-- Retângulo da Proposta de Valor -->
+  <rect x="50" y="100" width="300" height="400" rx="150" ry="150" fill="#e8f8f5" stroke="#333" stroke-width="2" />
+  <text x="200" y="150" font-family="Arial" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">PROPOSTA DE VALOR</text>
+  
+  <!-- Divisão da Proposta de Valor -->
+  <line x1="50" y1="300" x2="350" y2="300" stroke="#333" stroke-width="2" />
+  
+  <!-- Textos da Proposta de Valor -->
+  <text x="200" y="225" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">PRODUTOS E</text>
+  <text x="200" y="245" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">SERVIÇOS</text>
+  
+  <text x="200" y="375" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">CRIADORES DE</text>
+  <text x="200" y="395" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">GANHOS</text>
+  
+  <text x="200" y="435" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">ALIVIADORES DE</text>
+  <text x="200" y="455" font-family="Arial" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">DORES</text>
+  
+  <!-- Setas de conexão -->
+  <path d="M350,225 C375,225 400,200 425,200" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M350,400 C375,400 400,400 425,400" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M350,300 C375,300 400,300 425,300" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Definição da ponta de seta -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+  
+  <!-- Texto explicativo -->
+  <text x="400" y="550" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Encaixe entre o que você oferece e o que o cliente precisa</text>
+</svg>

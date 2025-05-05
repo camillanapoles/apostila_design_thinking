@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="250" y="30" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">Ciclo do Design Thinking</text>
+  
+  <!-- Caixas das etapas -->
+  <rect x="150" y="60" width="200" height="60" rx="10" ry="10" fill="#3498db" />
+  <rect x="150" y="160" width="200" height="60" rx="10" ry="10" fill="#2ecc71" />
+  <rect x="150" y="260" width="200" height="60" rx="10" ry="10" fill="#e74c3c" />
+  <rect x="150" y="360" width="200" height="60" rx="10" ry="10" fill="#9b59b6" />
+  <rect x="150" y="460" width="200" height="60" rx="10" ry="10" fill="#f39c12" />
+  
+  <!-- Textos das etapas -->
+  <text x="250" y="95" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">EMPATIA</text>
+  <text x="250" y="195" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">DEFINIÇÃO</text>
+  <text x="250" y="295" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">IDEAÇÃO</text>
+  <text x="250" y="395" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">PROTOTIPAGEM</text>
+  <text x="250" y="495" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">TESTE</text>
+  
+  <!-- Setas de conexão -->
+  <path d="M250,120 L250,160" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M250,220 L250,260" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M250,320 L250,360" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  <path d="M250,420 L250,460" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrowhead)" />
+  
+  <!-- Seta de iteração -->
+  <path d="M150,490 C50,490 50,90 150,90" stroke="#555" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowhead)" />
+  
+  <!-- Definição da ponta de seta -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+  
+  <!-- Texto de iteração -->
+  <text x="100" y="280" font-family="Arial" font-size="14" fill="#555" text-anchor="middle" transform="rotate(-90, 100, 280)">ITERAÇÃO</text>
+</svg>
