@@ -2,8 +2,8 @@ name: ci
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:  # Adicione esta linha!
+      - master  # Alterado de 'main' para 'master'
+  workflow_dispatch:
 
 permissions:
   contents: write
